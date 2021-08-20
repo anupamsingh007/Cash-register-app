@@ -1,2 +1,2 @@
-# Cash register app
- app to calulate the amount to return
+# cash register app
+ app to calculate the amount to return
