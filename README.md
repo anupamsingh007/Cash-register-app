@@ -1,2 +1,2 @@
 # cash register app
- calculate amount to return
+An app made to to calculate the amount to be returned.
