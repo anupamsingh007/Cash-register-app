@@ -1,2 +1,2 @@
 # cash register app
- calculate return app
+ calculate amount to return
