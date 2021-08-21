@@ -114,3 +114,26 @@ th,
 td {
     background-color: rgb(188, 219, 12);
 }
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: antiquewhite;
+    padding: 1rem;
+
+
+}
+
+
+a,
+
+li {
+    display: inline;
+    margin: 1rem;
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
